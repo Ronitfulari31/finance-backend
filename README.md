@@ -2,6 +2,11 @@
 
 A RESTful backend API built with **Python + FastAPI + SQLite** for managing financial records with role-based access control (RBAC).
 
+**Live Interactive API Docs (Swagger):** [https://finance-backend-b2dj.onrender.com/docs](https://finance-backend-b2dj.onrender.com/docs)  
+*(Note: The API is hosted on a free Render instance. If it has been asleep, the very first request may take up to 50 seconds to wake the server up. The DB automatically seeds fresh data on every boot.)*
+
+---
+
 ## Quick Start
 
 ```bash
